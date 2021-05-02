@@ -10,5 +10,5 @@ O controle das tarefas desse projera será realizado no GitHub
 
 :package: Nova Funcionalidade
 :up: Atualização
-:beatle:Correção de bug
+:beetle: Correção de bug
 :checkered_flag: Release
